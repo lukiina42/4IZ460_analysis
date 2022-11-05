@@ -1,0 +1,183 @@
+country	Most Recent Year	GDP per Capita
+Saudi Arabia	1994	7421.3
+Qatar	1994	14544.0
+Ukraine	1994	1012.0
+Jordan	1994	1414.3
+Indonesia	1994	912.2
+Ireland	1994	15902.9
+Tanzania	1994	161.2
+India	1994	346.1
+Aruba	1994	16241.6
+Austria	1994	25646.7
+Australia	1994	18079.4
+Argentina	1994	7483.1
+Angola	1994	328.7
+Albania	1994	586.4
+Armenia	1994	400.5
+Iran Islamic Rep.	1994	1185.7
+Iceland	1994	24018.6
+Iraq	1994	204.3
+Antigua and Barbuda	1994	8771.1
+Andorra	1994	16235.1
+United Arab Emirates	1994	25848.0
+St. Vincent and the Grenadines	1994	2678.5
+Libya	1994	5892.6
+Chad	1994	174.0
+Togo	1994	238.5
+Thailand	1994	2491.4
+Lesotho	1994	471.8
+Liechtenstein	1994	64051.2
+Sri Lanka	1994	647.6
+Turkiye	1994	2270.3
+Trinadad&Tobago	1994	3959.3
+Tuvalu	1994	1175.8
+Lao PDR	1994	325.9
+St. Lucia	1994	4919.4
+Lebanon	1994	2820.5
+United-States	1994	27694.9
+Algeria	1994	1507.9
+Yemen Rep.	1994	291.5
+Germany	1994	27076.6
+Denmark	1994	29995.6
+Djibouti	1994	790.0
+Dominica	1994	3721.3
+Dominican Republic	1994	1905.9
+Sudan	1994	449.7
+Sweden	1994	26083.6
+Singapore	1994	21553.0
+Kazakhstan	1994	1316.2
+Sierra Leone	1994	211.6
+Senegal	1994	595.0
+Korea Rep.	1994	10385.3
+Slovak Republic	1994	3771.4
+Comoros	1994	690.5
+St. Kitts and Nevis	1994	7092.1
+Cambodia	1994	270.5
+Kiribati	1994	715.2
+Suriname	1994	1391.6
+Kyrgyz Republic	1994	372.3
+Syrian Arab Republic	1994	3231.9
+Cabo Verde	1994	1080.2
+Costa Rica	1994	3031.9
+Cyprus	1994	11617.7
+Czechia	1994	4630.6
+Congo Dem. Rep.	1994	144.6
+Central African Republic	1994	271.5
+Congo Rep.	1994	672.2
+New Zealand	1994	15280.3
+Canada	1994	19935.4
+Chile	1994	4024.2
+Cameroon	1994	672.8
+China	1994	473.5
+Colombia	1994	2284.8
+Switzerland	1994	43128.0
+Cote d'Ivoire	1994	605.3
+Nepal	1994	193.3
+Nigeria	1994	321.3
+Niger	1994	211.4
+New Caledonia	1994	16037.0
+Vanuatu	1994	1423.9
+Namibia	1994	2303.3
+Norway	1994	29315.8
+Holand-Netherlands	1994	24646.3
+Azerbaijan	1994	157.1
+Nicaragua	1994	847.4
+Micronesia Fed. Sts.	1994	1909.8
+Fiji	1994	2384.7
+Finland	1994	20301.3
+France	1994	23496.5
+Mexico	1994	5854.4
+Malaysia	1994	3728.1
+Uganda	1994	201.6
+Mauritania	1994	862.3
+Maldives	1994	1432.2
+Malawi	1994	121.3
+Malta	1994	8000.5
+Mauritius	1994	3197.3
+North Macedonia	1994	1796.2
+Marshall Islands	1994	2152.2
+Mongolia	1994	406.0
+Macao SAR China	1994	16704.9
+Mali	1994	223.0
+Myanmar	1994	88.1
+Uzbekistan	1994	576.4
+Monaco	1994	89378.0
+Morocco	1994	1326.9
+Madagascar	1994	269.6
+Eritrea	1994	239.7
+Spain	1994	13415.3
+Tajikistan	1994	267.4
+Ethiopia	1994	125.5
+Solomon Islands	1994	1153.3
+Seychelles	1994	6555.5
+Italy	1994	19337.6
+Ecuador	1994	2026.1
+South-Africa	1994	3784.4
+Egypt Arab Rep.	1994	849.5
+Zambia	1994	412.3
+Poland	1994	2874.8
+Philippines	1994	1073.0
+Pakistan	1994	434.5
+Peru	1994	1881.7
+Zimbabwe	1994	611.9
+Papua New Guinea	1994	1086.3
+French Polynesia	1994	16444.2
+Panama	1994	3489.2
+Paraguay	1994	1686.8
+Portugal	1994	9977.3
+West Bank and Gaza	1994	1201.6
+Puerto Rico	1994	10876.4
+Turkmenistan	1994	622.4
+Honduras	1994	836.6
+Hong-Kong SAR China	1994	22502.6
+Hungary	1994	4173.4
+Haiti	1994	285.1
+Tonga	1994	2047.1
+Uruguay	1994	5458.9
+Tunisia	1994	1743.2
+Oman	1994	6013.2
+Ghana	1994	328.7
+Greenland	1994	18124.0
+Gambia The	1994	682.2
+Guinea	1994	477.8
+Vietnam	1994	221.1
+El Salvador	1994	1380.7
+Gabon	1994	3963.9
+United Kingdom	1994	19709.2
+Grenada	1994	3272.6
+Georgia	1994	519.9
+Guyana	1994	712.7
+Japan	1994	39933.5
+Eswatini	1994	1563.7
+Equatorial Guinea	1994	210.4
+Greece	1994	11091.3
+Guatemala	1994	1293.5
+Guinea-Bissau	1994	221.0
+Romania	1994	1323.1
+Cuba	1994	2624.8
+Luxembourg	1994	43933.2
+Mozambique	1994	187.1
+Kenya	1994	265.2
+Rwanda	1994	127.0
+Russian Federation	1994	2662.1
+Belize	1994	2882.2
+Belarus	1994	1460.1
+Bahamas The	1994	11814.4
+Brazil	1994	3295.2
+Samoa	1994	1310.7
+Botswana	1994	2970.1
+Jamaica	1994	2173.2
+Bhutan	1994	486.9
+Benin	1994	279.7
+Burundi	1994	156.8
+Bahrain	1994	10130.4
+Bolivia	1994	801.0
+Brunei Darussalam	1994	14121.0
+Bermuda	1994	31476.1
+Barbados	1994	8121.6
+Bosnia and Herzegovina	1994	319.0
+Venezuela RB	1994	2720.4
+Bulgaria	1994	1148.5
+Burkina Faso	1994	193.1
+Belgium	1994	24208.6
+Bangladesh	1994	299.5
